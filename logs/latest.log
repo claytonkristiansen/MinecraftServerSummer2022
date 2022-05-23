@@ -1,143 +1,112 @@
-[04:37:59] [User Authenticator #119/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
-[04:38:00] [Server thread/INFO]: ClayGamer01[/71.84.30.16:51937] logged in with entity id 680054 at (-2795.699999988079, 96.0, -2713.3873046955346)
-[04:38:00] [Server thread/INFO]: ClayGamer01 joined the game
-[05:02:44] [Server thread/INFO]: [ClayGamer01: Set own game mode to Spectator Mode]
-[05:02:48] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
-[05:03:50] [Server thread/INFO]: [ClayGamer01: Set the time to 1000]
-[05:04:53] [Server thread/INFO]: [ClayGamer01: Set own game mode to Creative Mode]
-[05:08:02] [User Authenticator #120/INFO]: UUID of player Quindolin is 271617cd-6ecf-4e3c-870e-553daa50acda
-[05:08:02] [Server thread/INFO]: Quindolin[/71.84.30.16:50464] logged in with entity id 684665 at (-2951.5032536406006, 19.542051905281422, -2746.300000011921)
-[05:08:02] [Server thread/INFO]: Quindolin joined the game
-[05:08:28] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
-[05:10:00] [Server thread/INFO]: [ClayGamer01: Set own game mode to Creative Mode]
-[05:10:30] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
-[05:14:08] [Server thread/INFO]: [ClayGamer01: Set the time to 1000]
-[05:15:56] [Server thread/INFO]: [ClayGamer01: Set own game mode to Spectator Mode]
-[05:17:00] [Server thread/INFO]: [ClayGamer01: Teleported ClayGamer01 to Quindolin]
-[05:17:38] [Server thread/INFO]: [ClayGamer01: Summoned new Bat]
-[05:17:54] [Server thread/INFO]: [ClayGamer01: Summoned new Bat]
-[05:17:56] [Server thread/INFO]: [ClayGamer01: Summoned new Bat]
-[05:17:57] [Server thread/INFO]: [ClayGamer01: Summoned new Bat]
-[05:17:57] [Server thread/INFO]: [ClayGamer01: Summoned new Bat]
-[05:17:58] [Server thread/INFO]: [ClayGamer01: Summoned new Bat]
-[05:17:58] [Server thread/INFO]: [ClayGamer01: Summoned new Bat]
-[05:18:03] [Server thread/INFO]: [ClayGamer01: Summoned new Bat]
-[05:18:03] [Server thread/INFO]: [ClayGamer01: Summoned new Bat]
-[05:18:04] [Server thread/INFO]: [ClayGamer01: Summoned new Bat]
-[05:18:04] [Server thread/INFO]: [ClayGamer01: Summoned new Bat]
-[05:18:05] [Server thread/INFO]: [ClayGamer01: Summoned new Bat]
-[05:18:05] [Server thread/INFO]: [ClayGamer01: Summoned new Bat]
-[05:18:06] [Server thread/INFO]: [ClayGamer01: Summoned new Bat]
-[05:18:06] [Server thread/INFO]: [ClayGamer01: Summoned new Bat]
-[05:18:07] [Server thread/INFO]: [ClayGamer01: Summoned new Bat]
-[05:18:07] [Server thread/INFO]: [ClayGamer01: Summoned new Bat]
-[05:18:08] [Server thread/INFO]: [ClayGamer01: Summoned new Bat]
-[05:18:08] [Server thread/INFO]: [ClayGamer01: Summoned new Bat]
-[05:18:09] [Server thread/INFO]: [ClayGamer01: Summoned new Bat]
-[05:20:36] [Server thread/INFO]: Quindolin lost connection: Disconnected
-[05:20:36] [Server thread/INFO]: Quindolin left the game
-[05:22:17] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
-[05:24:04] [User Authenticator #121/INFO]: UUID of player Quindolin is 271617cd-6ecf-4e3c-870e-553daa50acda
-[05:24:04] [Server thread/INFO]: Quindolin[/71.84.30.16:50597] logged in with entity id 688405 at (-2928.2211898172245, 72.0, -2761.0135516369337)
-[05:24:04] [Server thread/INFO]: Quindolin joined the game
-[05:24:45] [Server thread/INFO]: <Quindolin> penis
-[05:33:22] [Server thread/INFO]: Quindolin lost connection: Disconnected
-[05:33:22] [Server thread/INFO]: Quindolin left the game
-[05:49:20] [User Authenticator #122/INFO]: UUID of player Quindolin is 271617cd-6ecf-4e3c-870e-553daa50acda
-[05:49:21] [Server thread/INFO]: Quindolin[/71.84.30.16:51241] logged in with entity id 693461 at (-2880.128844741739, 57.39193139015525, -2722.8957287217677)
-[05:49:21] [Server thread/INFO]: Quindolin joined the game
-[05:55:16] [Server thread/INFO]: Quindolin lost connection: Disconnected
-[05:55:16] [Server thread/INFO]: Quindolin left the game
-[05:55:52] [Server thread/INFO]: [ClayGamer01: Set own game mode to Spectator Mode]
-[05:56:44] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
-[06:06:03] [Server thread/INFO]: [ClayGamer01: Set own game mode to Creative Mode]
-[06:07:14] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
-[06:07:44] [Server thread/INFO]: [ClayGamer01: Set own game mode to Creative Mode]
-[06:07:45] [Server thread/INFO]: [ClayGamer01: Set own game mode to Spectator Mode]
-[06:08:14] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
-[06:19:59] [Server thread/INFO]: ClayGamer01 fell from a high place
-[06:42:50] [Server thread/INFO]: [ClayGamer01: Gamerule keepInventory is now set to: true]
-[06:53:04] [Server thread/INFO]: [ClayGamer01: Set the time to 1000]
-[07:02:47] [Server thread/INFO]: [ClayGamer01: Set the time to 1000]
-[07:32:45] [Server thread/INFO]: [ClayGamer01: Set the time to 1000]
-[07:35:48] [Server thread/INFO]: [ClayGamer01: Gamerule mobGriefing is now set to: false]
-[07:40:11] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-363, y=43, z=-347} gj{x=-364, y=41, z=-347}
-[07:40:11] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-363, y=43, z=-347} gj{x=-364, y=41, z=-347}
-[07:40:11] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-363, y=43, z=-347} gj{x=-364, y=41, z=-347}
-[07:40:31] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-371, y=35, z=-347} gj{x=-372, y=33, z=-347}
-[07:40:31] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-371, y=35, z=-347} gj{x=-372, y=33, z=-347}
-[07:40:31] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-371, y=35, z=-347} gj{x=-372, y=33, z=-347}
-[07:41:25] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-385, y=22, z=-347} gj{x=-386, y=21, z=-347}
-[07:41:25] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-385, y=22, z=-347} gj{x=-386, y=21, z=-347}
-[07:41:25] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-385, y=22, z=-347} gj{x=-386, y=21, z=-347}
-[07:43:22] [Server thread/INFO]: ClayGamer01 has made the advancement [Hidden in the Depths]
-[07:47:40] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-403, y=13, z=-393} gj{x=-403, y=12, z=-395}
-[07:51:45] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
-[07:51:45] [Server thread/INFO]: ClayGamer01 left the game
-[17:33:08] [User Authenticator #123/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
-[17:33:09] [Server thread/INFO]: ClayGamer01[/71.84.30.16:65050] logged in with entity id 721741 at (-406.69999998807907, 12.0, -574.359564826295)
-[17:33:09] [Server thread/INFO]: ClayGamer01 joined the game
-[17:42:48] [User Authenticator #124/INFO]: UUID of player Quindolin is 271617cd-6ecf-4e3c-870e-553daa50acda
-[17:42:48] [Server thread/INFO]: Quindolin[/71.84.30.16:61453] logged in with entity id 725829 at (-2923.974009383522, 80.0, -2787.8691729245024)
-[17:42:48] [Server thread/INFO]: Quindolin joined the game
-[17:43:23] [Server thread/INFO]: Quindolin lost connection: Disconnected
-[17:43:23] [Server thread/INFO]: Quindolin left the game
-[17:43:25] [User Authenticator #125/INFO]: UUID of player Quindolin is 271617cd-6ecf-4e3c-870e-553daa50acda
-[17:43:25] [Server thread/INFO]: Quindolin[/71.84.30.16:61456] logged in with entity id 726949 at (-2943.938881582008, 72.0, -2746.1586950244887)
-[17:43:25] [Server thread/INFO]: Quindolin joined the game
-[17:43:31] [Server thread/INFO]: Quindolin lost connection: Disconnected
-[17:43:31] [Server thread/INFO]: Quindolin left the game
-[17:49:16] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-391, y=15, z=-506} gj{x=-390, y=14, z=-505}
-[17:52:54] [User Authenticator #126/INFO]: UUID of player Quindolin is 271617cd-6ecf-4e3c-870e-553daa50acda
-[17:52:55] [Server thread/INFO]: Quindolin[/71.84.30.16:61546] logged in with entity id 731835 at (-2943.938881582008, 72.0, -2746.1586950244887)
-[17:52:55] [Server thread/INFO]: Quindolin joined the game
-[17:55:15] [Server thread/INFO]: [ClayGamer01: Set own game mode to Spectator Mode]
-[17:55:18] [Server thread/INFO]: [ClayGamer01: Teleported ClayGamer01 to Quindolin]
-[17:55:36] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
-[17:56:52] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
-[17:56:52] [Server thread/INFO]: ClayGamer01 left the game
-[18:01:20] [Server thread/INFO]: Quindolin lost connection: Disconnected
-[18:01:20] [Server thread/INFO]: Quindolin left the game
-[18:03:47] [User Authenticator #127/INFO]: UUID of player Quindolin is 271617cd-6ecf-4e3c-870e-553daa50acda
-[18:03:47] [Server thread/INFO]: Quindolin[/71.84.30.16:57337] logged in with entity id 735402 at (-3059.1184805749963, 87.0, -2296.8375443961104)
-[18:03:47] [Server thread/INFO]: Quindolin joined the game
-[18:07:06] [User Authenticator #128/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
-[18:07:06] [Server thread/INFO]: ClayGamer01[/71.84.30.16:58758] logged in with entity id 736786 at (-2760.704754551284, 90.0, -2727.0180265550284)
-[18:07:06] [Server thread/INFO]: ClayGamer01 joined the game
-[18:27:36] [Server thread/INFO]: Villager bnw['Villager'/735543, l='ServerLevel[world]', x=-3063.84, y=102.00, z=-2450.31] died, message: 'Villager hit the ground too hard'
-[18:31:27] [Server thread/INFO]: [ClayGamer01: Gamerule randomTickSpeed is now set to: 50]
-[18:49:06] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
-[18:49:06] [Server thread/INFO]: ClayGamer01 left the game
-[18:50:21] [User Authenticator #129/INFO]: UUID of player RealHellenKeller is eb6a957a-5072-4ed7-8d58-60d192d7aec2
-[18:50:21] [Server thread/INFO]: RealHellenKeller[/71.84.30.16:52183] logged in with entity id 748045 at (-2963.2149944472853, 87.0, -2764.3228614937693)
-[18:50:21] [Server thread/INFO]: RealHellenKeller joined the game
-[18:51:39] [Server thread/INFO]: RealHellenKeller lost connection: Disconnected
-[18:51:39] [Server thread/INFO]: RealHellenKeller left the game
-[18:51:46] [User Authenticator #130/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
-[18:51:46] [Server thread/INFO]: ClayGamer01[/71.84.30.16:62615] logged in with entity id 748578 at (-3056.237500011921, 88.0, -2349.4793222203834)
-[18:51:46] [Server thread/INFO]: ClayGamer01 joined the game
-[18:51:50] [Server thread/INFO]: [ClayGamer01: The difficulty has been set to Peaceful]
-[18:51:53] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
-[18:51:53] [Server thread/INFO]: ClayGamer01 left the game
-[18:51:58] [User Authenticator #131/INFO]: UUID of player RealHellenKeller is eb6a957a-5072-4ed7-8d58-60d192d7aec2
-[18:51:58] [Server thread/INFO]: RealHellenKeller[/71.84.30.16:52188] logged in with entity id 748585 at (-2964.8003012309787, 87.42527412219724, -2757.6741205103663)
-[18:51:58] [Server thread/INFO]: RealHellenKeller joined the game
-[19:00:29] [Server thread/INFO]: Quindolin lost connection: Disconnected
-[19:00:29] [Server thread/INFO]: Quindolin left the game
-[19:01:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[19:01:04] [Server thread/INFO]: [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[ssay hello<--[HERE]
-[19:01:18] [Server thread/INFO]: [Server] unfortunately I need to restart the server to add an epic plugin
-[19:01:49] [Server thread/INFO]: [Server] please go to https://getbukkit.org/get/92f15442e8a9edea8394b208ac08d667 to get FREE cash!!!
-[19:02:11] [Server thread/INFO]: RealHellenKeller lost connection: Disconnected
-[19:02:11] [Server thread/INFO]: RealHellenKeller left the game
-[19:02:12] [Server thread/INFO]: Stopping the server
-[19:02:12] [Server thread/INFO]: Stopping server
-[19:02:12] [Server thread/INFO]: Saving players
-[19:02:12] [Server thread/INFO]: Saving worlds
-[19:02:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[19:02:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[19:02:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[19:02:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:02:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:02:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:02:15] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:01:25] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13:01:30] [Worker-Main-9/INFO]: Loaded 7 recipes
+[13:01:33] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[13:01:33] [Server thread/INFO]: Loading properties
+[13:01:33] [Server thread/INFO]: Default game type: SURVIVAL
+[13:01:33] [Server thread/INFO]: Generating keypair
+[13:01:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:01:34] [Server thread/INFO]: Using default channel type
+[13:01:38] [Server thread/INFO]: This server is running CraftBukkit version 3488-Bukkit-d48f2d1 (MC: 1.18.2) (Implementing API version 1.18.2-R0.1-SNAPSHOT)
+[13:01:39] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.4.25
+[13:01:44] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v4.3.1-b861
+[13:01:44] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v4.2.1-b834
+[13:01:44] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.25
+[13:01:44] [Server thread/INFO]: [0;36;1m       [0;36;22m __    [m
+[13:01:44] [Server thread/INFO]: [0;36;1m  |    [0;36;22m|__)   [0;32;22mLuckPerms[m [0;36;1mv5.4.25[m
+[13:01:44] [Server thread/INFO]: [0;36;1m  |___ [0;36;22m|      [0;30;1mRunning on Bukkit - CraftBukkit[m
+[13:01:44] [Server thread/INFO]: [m
+[13:01:44] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[13:01:45] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[13:01:46] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[13:01:46] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[13:01:46] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2151ms)
+[13:01:46] [Server thread/INFO]: Preparing level "world"
+[13:01:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:01:50] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[13:01:50] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[13:01:50] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[13:01:50] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[13:01:50] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[13:01:51] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[13:01:51] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[13:01:52] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[13:01:52] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[13:01:53] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[13:01:53] [Worker-Main-13/INFO]: Preparing spawn area: 4%
+[13:01:54] [Worker-Main-10/INFO]: Preparing spawn area: 5%
+[13:01:54] [Worker-Main-11/INFO]: Preparing spawn area: 17%
+[13:01:55] [Worker-Main-10/INFO]: Preparing spawn area: 26%
+[13:01:55] [Worker-Main-10/INFO]: Preparing spawn area: 33%
+[13:01:56] [Worker-Main-14/INFO]: Preparing spawn area: 61%
+[13:01:56] [Worker-Main-13/INFO]: Preparing spawn area: 82%
+[13:01:57] [Worker-Main-14/INFO]: Preparing spawn area: 82%
+[13:01:57] [Server thread/INFO]: Time elapsed: 8905 ms
+[13:01:57] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[13:01:59] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[13:01:59] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[13:01:59] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[13:01:59] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[13:01:59] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[13:02:00] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[13:02:00] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[13:02:01] [Worker-Main-8/INFO]: Preparing spawn area: 1%
+[13:02:01] [Worker-Main-10/INFO]: Preparing spawn area: 14%
+[13:02:02] [Worker-Main-13/INFO]: Preparing spawn area: 26%
+[13:02:02] [Worker-Main-8/INFO]: Preparing spawn area: 37%
+[13:02:03] [Worker-Main-13/INFO]: Preparing spawn area: 86%
+[13:02:03] [Server thread/INFO]: Time elapsed: 5706 ms
+[13:02:03] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[13:02:05] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[13:02:05] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[13:02:05] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[13:02:05] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[13:02:05] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[13:02:06] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[13:02:06] [Worker-Main-11/INFO]: Preparing spawn area: 4%
+[13:02:07] [Worker-Main-10/INFO]: Preparing spawn area: 9%
+[13:02:07] [Worker-Main-14/INFO]: Preparing spawn area: 30%
+[13:02:08] [Worker-Main-13/INFO]: Preparing spawn area: 73%
+[13:02:08] [Worker-Main-14/INFO]: Preparing spawn area: 97%
+[13:02:08] [Server thread/INFO]: Time elapsed: 5106 ms
+[13:02:08] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.3.1-b861
+[13:02:08] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.3.1-b861" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[13:02:08] [Server thread/INFO]: [Multiverse-Core] §aWe are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[13:02:09] [Server thread/INFO]: [Multiverse-Core] 3 - World(s) loaded.
+[13:02:09] [Server thread/WARN]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
+[13:02:09] [Server thread/INFO]: [Multiverse-Core] Version 4.3.1-b861 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[13:02:09] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v4.2.1-b834
+[13:02:09] [Server thread/INFO]: [Multiverse-Portals] 0 - Portals(s) loaded
+[13:02:09] [Server thread/INFO]: [Multiverse-Portals 4.2.1-b834]  Enabled - By Rigby and fernferret
+[13:02:09] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:02:09] [Server thread/INFO]: Done (22.971s)! For help, type "help"
+[13:02:35] [User Authenticator #1/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
+[13:02:37] [Server thread/INFO]: ClayGamer01[/127.0.0.1:51712] logged in with entity id 332 at ([world]-3058.356095304407, 87.9375, -2345.5868246491273)
+[13:02:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5577ms or 111 ticks behind
+[13:03:06] [Server thread/INFO]: ClayGamer01 issued server command: /lp editor groups
+[13:03:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5021ms or 100 ticks behind
+[13:04:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7212ms or 144 ticks behind
+[13:05:54] [luckperms-command-executor/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;32;1mWeb editor data was applied to group [0;36;1mdefault[0;32;1m successfully.[m
+[13:05:54] [luckperms-command-executor/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;37;22m([0;32;1m1[0;37;22m addition and [0;31;1m0[0;37;22m deletions)[m
+[13:05:54] [luckperms-command-executor/INFO]: [0;32;1m+[m  [0;37;1mmultiverse.portal.* [0;37;22m([0;32;1mtrue[0;37;22m)[m
+[13:06:03] [Server thread/INFO]: ClayGamer01 issued server command: /deop ClayGamer01
+[13:06:03] [Server thread/INFO]: [ClayGamer01: Made ClayGamer01 no longer a server operator]
+[13:06:35] [Server thread/INFO]: ClayGamer01 issued server command: /mvp wand
+[13:06:54] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
+[13:06:54] [Server thread/INFO]: ClayGamer01 left the game
+[13:06:59] [Server thread/INFO]: Stopping the server
+[13:06:59] [Server thread/INFO]: Stopping server
+[13:06:59] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v4.2.1-b834
+[13:06:59] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.3.1-b861
+[13:06:59] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.25
+[13:06:59] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[13:06:59] [Server thread/INFO]: [LuckPerms] Closing storage...
+[13:06:59] [Server thread/INFO]: [LuckPerms] Goodbye!
+[13:06:59] [Server thread/INFO]: Saving players
+[13:06:59] [Server thread/INFO]: Saving worlds
+[13:07:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13:07:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[13:07:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[13:07:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:07:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:07:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:07:04] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
