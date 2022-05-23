@@ -1,0 +1,66 @@
+{
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2022-05-15 19:30:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2022-05-15 19:30:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2022-05-15 19:29:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2022-05-15 19:30:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2022-05-15 19:30:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2022-05-15 19:30:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2022-05-15 19:30:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2022-05-15 19:30:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2022-05-15 19:29:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:birch_forest": "2022-05-15 19:29:14 +0000",
+      "minecraft:stony_shore": "2022-05-16 02:59:53 +0000",
+      "minecraft:lush_caves": "2022-05-16 03:00:55 +0000",
+      "minecraft:ocean": "2022-05-16 03:00:19 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2975
+}
