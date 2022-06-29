@@ -53,7 +53,7 @@ Constructor for the base_test class.
 
 -------------------------------------------
 
-### base_test::build_phase
+### [base_test](#base_test)::build_phase
 Method of [base_test](#base_test)
 ```sv
 virtual function void build_phase (uvm_phase phase);
