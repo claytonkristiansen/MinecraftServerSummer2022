@@ -8,16 +8,16 @@ Table of Contents:
 - [Classes:](#classes)
   - [my_report_server](#my_report_server)
   - [base_test](#base_test)
-      - [new](#new)
-      - [build_phase](#build_phase)
-      - [connect_phase](#connect_phase)
-      - [end_of_elaboration_phase](#end_of_elaboration_phase)
-      - [reset_phase](#reset_phase)
-      - [main_phase](#main_phase)
-      - [pre_configure_phase](#pre_configure_phase)
-      - [shutdown_phase](#shutdown_phase)
-      - [report_phase](#report_phase)
-      - [readf](#readf)
+    - [new](#new)
+    - [build_phase](#build_phase)
+    - [connect_phase](#connect_phase)
+    - [end_of_elaboration_phase](#end_of_elaboration_phase)
+    - [reset_phase](#reset_phase)
+    - [main_phase](#main_phase)
+    - [pre_configure_phase](#pre_configure_phase)
+    - [shutdown_phase](#shutdown_phase)
+    - [report_phase](#report_phase)
+    - [readf](#readf)
 
 
 
@@ -44,7 +44,7 @@ The parent testcase class. This class contains many objects, functions, and task
 
 <!-- ### Functions/Tasks: -->
 
-#### new
+### new
 Method of [base_test](#base_test)
 ```sv
 function new (string name = "base_test", uvm_component parent, time TIMEOUT = `MAX_TIMEOUT);
@@ -53,7 +53,7 @@ Constructor for the base_test class.
 
 -------------------------------------------
 
-#### build_phase
+### build_phase
 Method of [base_test](#base_test)
 ```sv
 virtual function void build_phase (uvm_phase phase);
@@ -62,7 +62,7 @@ base_test implementation of the UVM phase where the testbench components are con
 
 -------------------------------------------
 
-#### connect_phase
+### connect_phase
 Method of [base_test](#base_test)
 ```sv
 virtual function void connect_phase (uvm_phase phase);
@@ -71,7 +71,7 @@ base_test implementation of the UVM phase where the TLM ports of the components 
 
 -------------------------------------------
 
-#### end_of_elaboration_phase
+### end_of_elaboration_phase
 Method of [base_test](#base_test)
 ```sv
 virtual function void end_of_elaboration_phase (uvm_phase phase);
@@ -80,7 +80,7 @@ base_test implementation of the UVM phase used to make any final adjustments to 
 
 -------------------------------------------
 
-#### reset_phase
+### reset_phase
 Method of [base_test](#base_test)
 ```sv
 virtual task reset_phase (uvm_phase phase);
@@ -89,7 +89,7 @@ See [Verification Guide: Build Phases](https://verificationguide.com/uvm/uvm-pha
 
 -------------------------------------------
 
-#### main_phase
+### main_phase
 Method of [base_test](#base_test)
 ```sv
 virtual function void main_phase (uvm_phase phase);
@@ -98,7 +98,7 @@ See [Verification Guide: Build Phases](https://verificationguide.com/uvm/uvm-pha
 
 -------------------------------------------
 
-#### pre_configure_phase
+### pre_configure_phase
 Method of [base_test](#base_test)
 ```sv
 virtual function void pre_configure_phase (uvm_phase phase);
@@ -107,7 +107,7 @@ See [Verification Guide: Build Phases](https://verificationguide.com/uvm/uvm-pha
 
 -------------------------------------------
 
-#### shutdown_phase
+### shutdown_phase
 Method of [base_test](#base_test)
 ```sv
 virtual function void shutdown_phase (uvm_phase phase);
@@ -116,7 +116,7 @@ See [Verification Guide: Build Phases](https://verificationguide.com/uvm/uvm-pha
 
 -------------------------------------------
 
-#### report_phase
+### report_phase
 Method of [base_test](#base_test)
 ```sv
 virtual function void report_phase (uvm_phase phase);
@@ -125,7 +125,7 @@ See [Verification Guide: Build Phases](https://verificationguide.com/uvm/uvm-pha
 
 -------------------------------------------
 
-#### readf
+### readf
 Method of [base_test](#base_test)
 ```sv
 virtual task readf (string field, output logic [DATA_WIDTH-1:0] value, input logic [DATA_WIDTH-1 : 0] edata = 'x);
