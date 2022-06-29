@@ -4,8 +4,8 @@ Any items not present in this documentation may be present in the [UVM 1.1 Docum
 
 Table of Contents:
 
-- [Modules](#modules)
-- [Classes](#classes)
+- [Modules:](#modules)
+- [Classes:](#classes)
   - [my_report_server](#my_report_server)
   - [base_test](#base_test)
       - [new](#new)
@@ -21,18 +21,20 @@ Table of Contents:
 
 
 
-# Modules
+# Modules:
 
 
 
 
-# Classes
+# Classes:
 
 ## my_report_server
 ```sv
 class my_report_server extends uvm_report_server;
 ```
 Description to come
+
+-------------------------------------------
 
 ## base_test
 ```sv
@@ -49,6 +51,7 @@ function new (string name = "base_test", uvm_component parent, time TIMEOUT = `M
 ```
 Constructor for the base_test class.
 
+-------------------------------------------
 
 #### build_phase
 Method of [base_test](#base_test)
@@ -57,6 +60,7 @@ virtual function void build_phase (uvm_phase phase);
 ```
 base_test implementation of the UVM phase where the testbench components are constructed and configured. All three of the build_phase, connect_phase, and end_of_elaboration_phase functions are considered part of the overall "build phase".
 
+-------------------------------------------
 
 #### connect_phase
 Method of [base_test](#base_test)
@@ -65,6 +69,7 @@ virtual function void connect_phase (uvm_phase phase);
 ```
 base_test implementation of the UVM phase where the TLM ports of the components are connected.
 
+-------------------------------------------
 
 #### end_of_elaboration_phase
 Method of [base_test](#base_test)
@@ -73,6 +78,7 @@ virtual function void end_of_elaboration_phase (uvm_phase phase);
 ```
 base_test implementation of the UVM phase used to make any final adjustments to the structure, configuration or connectivity of the testbench before simulation starts. 
 
+-------------------------------------------
 
 #### reset_phase
 Method of [base_test](#base_test)
@@ -81,6 +87,7 @@ virtual task reset_phase (uvm_phase phase);
 ```
 See [Verification Guide: Build Phases](https://verificationguide.com/uvm/uvm-phases) for information on this task being overriden.
 
+-------------------------------------------
 
 #### main_phase
 Method of [base_test](#base_test)
@@ -89,6 +96,7 @@ virtual function void main_phase (uvm_phase phase);
 ```
 See [Verification Guide: Build Phases](https://verificationguide.com/uvm/uvm-phases) for information on this function being overriden.
 
+-------------------------------------------
 
 #### pre_configure_phase
 Method of [base_test](#base_test)
@@ -97,6 +105,7 @@ virtual function void pre_configure_phase (uvm_phase phase);
 ```
 See [Verification Guide: Build Phases](https://verificationguide.com/uvm/uvm-phases) for information on this function being overriden.
 
+-------------------------------------------
 
 #### shutdown_phase
 Method of [base_test](#base_test)
@@ -105,6 +114,7 @@ virtual function void shutdown_phase (uvm_phase phase);
 ```
 See [Verification Guide: Build Phases](https://verificationguide.com/uvm/uvm-phases) for information on this function being overriden.
 
+-------------------------------------------
 
 #### report_phase
 Method of [base_test](#base_test)
@@ -113,6 +123,7 @@ virtual function void report_phase (uvm_phase phase);
 ```
 See [Verification Guide: Build Phases](https://verificationguide.com/uvm/uvm-phases) for information on this function being overriden.
 
+-------------------------------------------
 
 #### readf
 Method of [base_test](#base_test)
@@ -127,4 +138,4 @@ Inputs : Field name, expected data(optional)
 
 Output : Read value of the field
 
-___
+-------------------------------------------
