@@ -44,7 +44,7 @@ The parent testcase class. This class contains many objects, functions, and task
 
 <!-- ### Functions/Tasks: -->
 
-### base_test::new
+### [base_test](#base_test)::new
 Method of [base_test](#base_test)
 ```sv
 function new (string name = "base_test", uvm_component parent, time TIMEOUT = `MAX_TIMEOUT);
